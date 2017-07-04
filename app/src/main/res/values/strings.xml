@@ -11,4 +11,6 @@
     <string name="coldtrucks">Cold Trucks</string>
     <string name="others">Others</string>
     <string name="icecream">Ice Cream</string>
+    <string name="done">Done</string>
+    <string name="initial_note">Specify a location in the box above or by long pressing on the map</string>
 </resources>
