@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">MobileTaco</string>
+    <string name="title_activity_maps">Map</string>
+    <string name="title_activity_filter">Filter</string>
+    <string name="filter">Filter</string>
+    <string name="radius">Radius(in meters): </string>
+    <string name="specify_location">Specify a location </string>
+    <string name="mexican">Mexican</string>
+    <string name="indian">Indian</string>
+    <string name="fastfood">Fast Food</string>
+    <string name="coldtrucks">Cold Trucks</string>
+    <string name="others">Others</string>
+    <string name="icecream">Ice Cream</string>
+</resources>
